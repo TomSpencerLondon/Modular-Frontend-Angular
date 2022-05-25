@@ -1,0 +1,7 @@
+POST http://localhost:8081/users
+Content-Type: application/json
+
+{ "name" : "Will", "email": "will@will.com" }
+#####
+
+GET http://localhost:8081/users

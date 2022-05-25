@@ -1,4 +1,4 @@
-package com.frankton;
+package com.modular;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
