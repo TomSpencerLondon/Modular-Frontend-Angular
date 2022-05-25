@@ -19,5 +19,9 @@ After building the application, in the backend is generated the target/ folder w
 
 java -jar backend-0.0.1-SNAPSHOT.jar
 
+# localhost:8081/users
+![Screenshot 2022-05-25 at 08 46 57](https://user-images.githubusercontent.com/27693622/170209311-91ceda43-c5e7-49a9-8604-5d3e2ac1e14d.png)
+# localhost:8081/adduser
+![Screenshot 2022-05-25 at 08 47 57](https://user-images.githubusercontent.com/27693622/170209442-85ee5515-e5e0-4151-b16b-203ef4774f1a.png)
 
 
